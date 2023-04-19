@@ -7,4 +7,10 @@ Các bước đẩy code lên Remote repo
 Bước 1: sẽ đẩy các file có sự thay đổi lên staging area, dùng lệnh git add + tên file nếu muốn đẩy từng file  
 Để kiểm tra sự thay đổi ta có thể dùng lệnh git status
 - muốn đảo ngược lại việc thêm các file có sự thay đổi lên staging area dùng lệnh git reset
-- 
+- git add . để đẩy tất cả các file lên
+-git status: kiểm tra trạng thái các file đã đẩy lên chưa
+B2: tạo ra commit để ghi chú lại sự thay đổi code, chúng ta dùng lệnh git commit -m "lời nhắn"
+- git log kiểm tra các commit
+
+B3: Đẩy code lên remote repo
+- git push -u origin master
