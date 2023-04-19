@@ -15,7 +15,7 @@ B2: tạo ra commit để ghi chú lại sự thay đổi code, chúng ta dùng 
 B3: Đẩy code lên remote repo lên remote repo để lưu trữ, lần đầu sẽ dùng - git push -u origin master , những lần sau chỉ dùng lệnh git push origin
  b1: git add . (note có dấu chấm)
  b2: git commit -m "Day code lan 3!"
- b3: git push origin
+ b3: git push origin////lần đầu là git push -u origin devB
 
  - get pull xem sự thay đổi từ người khác//nhánh khác
  - các bước tạo nhánh git branch + tên nhánh, muốn kiểm tra git branch, git checkout để chuyển qua nhánh đó
