@@ -12,5 +12,4 @@ Bước 1: sẽ đẩy các file có sự thay đổi lên staging area, dùng l
 B2: tạo ra commit để ghi chú lại sự thay đổi code, chúng ta dùng lệnh git commit -m "lời nhắn"
 - git log kiểm tra các commit
 
-B3: Đẩy code lên remote repo
-- git push -u origin master
+B3: Đẩy code lên remote repo lên remote repo để lưu trữ, lần đầu sẽ dùng - git push -u origin master 
