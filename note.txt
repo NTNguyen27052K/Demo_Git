@@ -16,3 +16,7 @@ B3: Đẩy code lên remote repo lên remote repo để lưu trữ, lần đầu
  b1: git add . (note có dấu chấm)
  b2: git commit -m "Day code lan 3!"
  b3: git push origin
+
+ - get pull xem sự thay đổi từ người khác//nhánh khác
+ - các bước tạo nhánh git branch + tên nhánh, muốn kiểm tra git branch, git checkout để chuyển qua nhánh đó
+ - git checkout -b devB khởi tạo và vô nhánh đó luôn
